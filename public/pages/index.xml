@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on DAMeuncoctel</title>
-    <link>dameuncoctel.netlify.app/pages/</link>
+    <link>https://dameuncoctel.netlify.app/pages/</link>
     <description>Recent content in Pages on DAMeuncoctel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="dameuncoctel.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://dameuncoctel.netlify.app/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre nosotros</title>
-      <link>dameuncoctel.netlify.app/conocenos/</link>
+      <link>https://dameuncoctel.netlify.app/conocenos/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>dameuncoctel.netlify.app/conocenos/</guid>
+      <guid>https://dameuncoctel.netlify.app/conocenos/</guid>
       <description></description>
     </item>
     
