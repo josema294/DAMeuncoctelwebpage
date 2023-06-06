@@ -1,9 +1,9 @@
-baseURL = "dameuncoctel"
+baseURL = ""
 languageCode = "es"
 title = "DAMeuncoctel"
 themesDir = "themes"
 theme = "hugo-hero-theme"
-relativeURLs = true
+
 
 
 [module]
