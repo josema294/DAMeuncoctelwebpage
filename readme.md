@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/61eead30-1f61-4c49-af79-413b35d70f23/deploy-status)](https://app.netlify.com/sites/dameuncoctel/deploys)
