@@ -1,8 +1,10 @@
-baseURL = "localhost:1313"
+baseURL = "dameuncoctel.netlify.app"
 languageCode = "es"
 title = "DAMeuncoctel"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+relativeURLs = true
+
 
 [module]
   [module.hugoVersion]
@@ -19,7 +21,7 @@ theme = "hugo-hero-theme"
     desktop = "images/logo.svg"
     desktop_height = "29px"
     desktop_width = "217px"
-    alt = "Hugo Hero"
+    alt = "dameuncoctel logo"
 
   [params.homepage_meta_tags]
     meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
