@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on DAMeuncoctel</title>
-    <link>localhost:1313/</link>
+    <link>dameuncoctel.netlify.app/</link>
     <description>Recent content in Home on DAMeuncoctel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="dameuncoctel.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cócteles Populares</title>
-      <link>localhost:1313/caracteristicas/populares/</link>
+      <link>dameuncoctel.netlify.app/caracteristicas/populares/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>localhost:1313/caracteristicas/populares/</guid>
+      <guid>dameuncoctel.netlify.app/caracteristicas/populares/</guid>
       <description>En DAMeuncoctel entendemos que la popularidad de un cóctel puede hablar mucho sobre su sabor y su aceptación entre los amantes de los cócteles. Por eso, hemos diseñado una función especial para destacar los cócteles más populares.
 Siempre al alcance de tu mano Cada vez que abras la aplicación, te encontrarás con un listado de los cócteles más populares en el mercado. Así, siempre estarás al día con las tendencias y podrás probar lo que todo el mundo está bebiendo.</description>
     </item>
     
     <item>
       <title>Sencillo para el Usuario</title>
-      <link>localhost:1313/caracteristicas/sencillezparausuario/</link>
+      <link>dameuncoctel.netlify.app/caracteristicas/sencillezparausuario/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>localhost:1313/caracteristicas/sencillezparausuario/</guid>
+      <guid>dameuncoctel.netlify.app/caracteristicas/sencillezparausuario/</guid>
       <description>En DAMeuncoctel creemos que la tecnología debe ser sencilla y accesible. Por eso, hemos diseñado nuestra aplicación para ser tan fácil de usar como sea posible.
 Diseño intuitivo Desde los cimientos, DAMeuncoctel ha sido diseñado con la sencillez en mente. Hemos trabajado arduamente para crear una interfaz que sea intuitiva y fácil de navegar, para que puedas concentrarte en descubrir y disfrutar de nuevos cócteles, en lugar de pasar tiempo averiguando cómo funciona la aplicación.</description>
     </item>
     
     <item>
       <title>Sobre nosotros</title>
-      <link>localhost:1313/conocenos/</link>
+      <link>dameuncoctel.netlify.app/conocenos/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>localhost:1313/conocenos/</guid>
+      <guid>dameuncoctel.netlify.app/conocenos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Favoritos</title>
-      <link>localhost:1313/caracteristicas/favoritos/</link>
+      <link>dameuncoctel.netlify.app/caracteristicas/favoritos/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>localhost:1313/caracteristicas/favoritos/</guid>
+      <guid>dameuncoctel.netlify.app/caracteristicas/favoritos/</guid>
       <description>En el vasto mundo de los cócteles, cada uno tiene sus propios favoritos. Aquellos que siempre estás dispuesto a disfrutar, los que te hacen sentir bien o los que despiertan recuerdos especiales. Con DAMeuncoctel, te facilitamos el acceso a tus cócteles favoritos en todo momento.
 Tus cócteles al alcance de un clic La opción de favoritos te permite guardar todos esos cócteles que te encantan y tenerlos siempre a tu disposición.</description>
     </item>
     
     <item>
       <title>Filtrado por ingredientes</title>
-      <link>localhost:1313/caracteristicas/ingredientes/</link>
+      <link>dameuncoctel.netlify.app/caracteristicas/ingredientes/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>localhost:1313/caracteristicas/ingredientes/</guid>
+      <guid>dameuncoctel.netlify.app/caracteristicas/ingredientes/</guid>
       <description>El mundo de los cócteles es maravillosamente diverso y variado, con una infinidad de sabores y texturas para explorar. Pero, ¿qué hacer cuando tienes un ingrediente específico en mente, o tal vez varios, y quieres descubrir nuevos cócteles que los contengan? Aquí es donde entra el filtrado por ingredientes de DAMeuncoctel.
 Busca por tus ingredientes preferidos El filtrado por ingredientes permite seleccionar uno o varios ingredientes y buscar cócteles que los contengan.</description>
     </item>
     
     <item>
       <title>Tus Creaciones</title>
-      <link>localhost:1313/caracteristicas/tuscreaciones/</link>
+      <link>dameuncoctel.netlify.app/caracteristicas/tuscreaciones/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
       
-      <guid>localhost:1313/caracteristicas/tuscreaciones/</guid>
+      <guid>dameuncoctel.netlify.app/caracteristicas/tuscreaciones/</guid>
       <description>La creatividad no conoce límites y en DAMeuncoctel te alentamos a explorarla. Por eso, te damos la oportunidad de crear tus propios cócteles y compartirlos en nuestra plataforma.
 Crear tu propio cóctel ¿Tienes una idea para un nuevo cóctel? ¿Quizás una variante de un clásico? ¡Dale vida! Con DAMeuncoctel, puedes crear cócteles de hasta siete ingredientes. Nuestra aplicación está diseñada para facilitar este proceso, por lo que podrás hacerlo con pocos clics.</description>
     </item>
     
     <item>
       <title>Categorias</title>
-      <link>localhost:1313/caracteristicas/categorias/</link>
+      <link>dameuncoctel.netlify.app/caracteristicas/categorias/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>localhost:1313/caracteristicas/categorias/</guid>
+      <guid>dameuncoctel.netlify.app/caracteristicas/categorias/</guid>
       <description>La vasta variedad de cócteles disponibles puede ser abrumadora. Cada cóctel tiene un sabor, una textura y un aroma distintivos que pueden marcar la diferencia entre un cóctel bueno y uno verdaderamente excepcional. Es por eso que ofrecemos la opción de filtrar nuestros cócteles según la categoría principal de alcohol. Podrás explorar la rica variedad de cócteles disponibles dentro de cada categoría y encontrar exactamente lo que estás buscando.
 Ron El ron, con su dulzura característica y notas ricas y profundas, es la base de muchos cócteles clásicos.</description>
     </item>
