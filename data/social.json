@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/josema294/ProyectoUE",
+        "image": "social/github.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/dameuncoctel",
+        "image": "social/twitter.svg"
+    }
+]
