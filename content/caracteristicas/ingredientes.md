@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Filtrado por ingredientes'
 heroSubHeading: 'Podrás buscar cócteles filtrando por ingredientes'
-heroBackground: 'services/ingredientes.svg'
+heroBackground: 'images/marc-schulte-A3EfEbpcWiM-unsplash.jpg'
 ---
 
 El mundo de los cócteles es maravillosamente diverso y variado, con una infinidad de sabores y texturas para explorar. Pero, ¿qué hacer cuando tienes un ingrediente específico en mente, o tal vez varios, y quieres descubrir nuevos cócteles que los contengan? Aquí es donde entra el filtrado por ingredientes de DAMeuncoctel.

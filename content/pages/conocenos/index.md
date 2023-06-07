@@ -4,7 +4,7 @@ date: 2018-12-06T09:29:16+10:00
 layout: 'conocenos'
 heroHeading: 'Sobre nosotros'
 heroSubHeading: "Alvaro Aliberch, Jose Maria Aranguren, Daniel Cañas. Estudiantes de desarrollo de aplicaciones multiplataforma en la Universidad Europea de Madrid."
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroBackground: 'images/marc-schulte-A3EfEbpcWiM-unsplash.jpg'
 ---
 
 <div>

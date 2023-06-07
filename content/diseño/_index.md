@@ -5,7 +5,7 @@ draft: false
 weight: 1
 heroHeading: 'Diseño'
 heroSubHeading: 'Conoce nuestro diseño, moderno, simple y funcional.'
-heroBackground: 'images/mobile.jpg'
+heroBackground: 'images/marc-schulte-A3EfEbpcWiM-unsplash.jpg'
 thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
 images: ['images/Screenshot_20230607_1.png','images/Screenshot_20230607_3.png','images/Screenshot_20230607_4.png','images/Screenshot_20230607_5.png','images/Screenshot_20230607_6.png','images/Screenshot_20230607_7.png','images/Screenshot_20230607_8.png','images/Screenshot_20230607_9.png','images/Screenshot_20230607_11.png']
 ---

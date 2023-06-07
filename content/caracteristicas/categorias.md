@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Filtra por categorías'
 heroSubHeading: 'Podrás filtrar por 4 categorías principales: ron, vodka, ginebra y sin alcohol'
-heroBackground: 'services/categorias.svg'
+heroBackground: 'images/marc-schulte-A3EfEbpcWiM-unsplash.jpg'
 ---
 
 La vasta variedad de cócteles disponibles puede ser abrumadora. Cada cóctel tiene un sabor, una textura y un aroma distintivos que pueden marcar la diferencia entre un cóctel bueno y uno verdaderamente excepcional. Es por eso que ofrecemos la opción de filtrar nuestros cócteles según la categoría principal de alcohol. Podrás explorar la rica variedad de cócteles disponibles dentro de cada categoría y encontrar exactamente lo que estás buscando.

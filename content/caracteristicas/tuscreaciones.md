@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Tus Creaciones'
 heroSubHeading: 'Podrás crear tus cócteles y subirlos a la aplicación con foto incluida.'
-heroBackground: 'services/tuscocteles.svg'
+heroBackground: 'images/marc-schulte-A3EfEbpcWiM-unsplash.jpg'
 ---
 
 La creatividad no conoce límites y en DAMeuncoctel te alentamos a explorarla. Por eso, te damos la oportunidad de crear tus propios cócteles y compartirlos en nuestra plataforma.

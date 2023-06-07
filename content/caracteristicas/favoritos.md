@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Tus cócteles favoritos'
 heroSubHeading: 'Con DAMeuncoctel, simplemente marca como favorito un cóctel y lo tendrás siempre a mano.'
-heroBackground: 'services/favoritos.svg'
+heroBackground: 'images/marc-schulte-A3EfEbpcWiM-unsplash.jpg'
 ---
 
 En el vasto mundo de los cócteles, cada uno tiene sus propios favoritos. Aquellos que siempre estás dispuesto a disfrutar, los que te hacen sentir bien o los que despiertan recuerdos especiales. Con DAMeuncoctel, te facilitamos el acceso a tus cócteles favoritos en todo momento.

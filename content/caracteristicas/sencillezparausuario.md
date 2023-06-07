@@ -7,7 +7,7 @@ featured: true
 weight: 2
 heroHeading: 'Sencillo para el Usuario'
 heroSubHeading: 'Fácil e intuitivo de usar, y con una guía de uso rápido.'
-heroBackground: 'services/easy.svg'
+heroBackground: 'images/marc-schulte-A3EfEbpcWiM-unsplash.jpg'
 ---
 
 En DAMeuncoctel creemos que la tecnología debe ser sencilla y accesible. Por eso, hemos diseñado nuestra aplicación para ser tan fácil de usar como sea posible.

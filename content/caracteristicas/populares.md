@@ -7,7 +7,7 @@ featured: true
 weight: 1
 heroHeading: 'Cócteles Populares'
 heroSubHeading: 'Disponible por defecto un listado con los cócteles más populares de la aplicación'
-heroBackground: 'services/populares.svg'
+heroBackground: 'images/marc-schulte-A3EfEbpcWiM-unsplash.jpg'
 ---
 
 En DAMeuncoctel entendemos que la popularidad de un cóctel puede hablar mucho sobre su sabor y su aceptación entre los amantes de los cócteles. Por eso, hemos diseñado una función especial para destacar los cócteles más populares.
