@@ -10,7 +10,7 @@
 {{ $subpages := sort $subpages ".Params.weight" }}
 {{ range $subpages }}
 <div class="strip bg-overlay">
-  <div class="container pt-17 pb-17">
+  <div class="container pt-9 pb-9">
     <div class="row align-items-center">
       <div class="col-12 col-md-4">
         <img src="{{ .Params.background | relURL }}" alt="{{ .Title }}'s photo" style="width: 100%; max-width: 300px;">

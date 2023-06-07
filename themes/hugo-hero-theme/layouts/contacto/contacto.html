@@ -48,7 +48,7 @@
       <h6 class="mt-2">{{ .name }}</h6>
       <ul>
         {{ if .email }}<li><strong>Email: </strong><a href="mailto:{{ .email }}">{{ .email }}</a></li>{{ end }}
-        {{ if .linkedin }}<li><strong>Linkedin: </strong>{{ .linkedin }}</li>{{ end }}
+        {{ if .linkedin }}<li><strong>Linkedin: </strong><a href="linkedin:{{ .linkedin }}">{{ .linkedin }}</a></li>{{ end }}
       </ul>
       {{ end }}
       {{ end }}
