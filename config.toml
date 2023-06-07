@@ -46,7 +46,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Conocenos"
-    url = "/conócenos/"
+    url = "/conocenos/"
     weight = 3
 
 
