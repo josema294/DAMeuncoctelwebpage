@@ -7,8 +7,7 @@ heroHeading: 'Diseño'
 heroSubHeading: 'Conoce nuestro diseño, moderno, simple y funcional.'
 heroBackground: 'images/mobile.jpg'
 thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+images: ['images/Screenshot_20230607_1.png','images/Screenshot_20230607_3.png','images/Screenshot_20230607_4.png','images/Screenshot_20230607_5.png','images/Screenshot_20230607_6.png','images/Screenshot_20230607_7.png','images/Screenshot_20230607_8.png','images/Screenshot_20230607_9.png','images/Screenshot_20230607_11.png']
 ---
 
 Estamos orgullosos de presentar el diseño de nuestra aplicación, una sinergia perfecta de modernidad y funcionalidad. Cada elemento ha sido cuidadosamente diseñado, buscando el equilibrio perfecto entre estética y eficiencia, lo que resulta en una aplicación visualmente atractiva y fácil de usar.
