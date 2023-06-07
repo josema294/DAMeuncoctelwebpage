@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://dameuncoctel.netlify.app/"
 languageCode = "es"
 title = "DAMeuncoctel"
 themesDir = "themes"
